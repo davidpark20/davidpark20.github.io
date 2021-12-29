@@ -20,13 +20,6 @@ feature_row2:
       url: "#test-link"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: /assets/images/projects-kpa1959.png
-      alt: "profile"
-      title: "안녕하세요, <br/> DavidPark 입니다."
-      excerpt: ' This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-      url: "#test-link"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
 ---
 &nbsp;
 &nbsp;
